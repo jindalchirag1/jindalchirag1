@@ -1,44 +1,47 @@
-# Hi there, I'm Chirag Jindal 👋 
+# I'm [Your Name] — I build the "Intelligence" in S/4HANA. 🧠
 
-### 🤖 Developer Associate @ SAP | Data Analytics Master (1.9) | AI Orchestrator
-
-I bridge the gap between complex data science and production-grade enterprise software. Currently, I’m focused on building the "Intelligent Enterprise" through autonomous agents and predictive sustainability dashboards.
+I’m a **Developer Associate at SAP** and a **Data Analytics Master’s graduate (1.9)**. I don't just write code; I architect systems that turn messy enterprise data into predictive actions. Currently, I'm bridging the gap between BTP cloud-native services and the next generation of Agentic AI.
 
 ---
 
-### 🚀 What I’m working on right now:
-* **🌍 Walldorf Energy Park:** Building a BTP-native dashboard that predicts energy consumption/generation and CO2 production using weather data and IoT streams.
-* **🧠 Agentic AI:** Designing the technical roadmap for autonomous agents (Joule) across SAP’s S.Mart and S.Factory ecosystems.
-* **⚡ Optimization:** Applying SOTA machine learning to automate mission-critical S/4HANA business processes.
+### ⚡ What's actually on my desk right now:
 
-### 🎓 The "SOTA" Thesis
-I recently completed my Master's Thesis in **S/4HANA Automation**, where I:
-* Built a **Multi-Agent RAG framework** for tax product classification.
-* Fine-tuned LLMs (RoBERTa, BETO) to achieve **>85% accuracy**.
-* Benchmarked performance on **AWS (EC2/EBS)** to ensure "run-ready" scalability.
+* **The SAP Energy Park Dashboard (BTP):** I’m currently coding the predictive logic for SAP’s Walldorf office. I’ve built a pipeline that ingests IoT sensor data, cross-references it with weather APIs and holiday calendars, and predicts CO2 output and energy load. If Walldorf's energy bill goes down, this dashboard probably helped.
+    * *Tech:* Python, BTP, IoT, Predictive Modeling.
+
+* **Joule & Agentic Roadmaps:** I’m designing how autonomous agents interact across S.Mart and S.Factory. My goal is to move beyond "chatbots" to agents that can actually execute complex inventory digitisation (S.GTIN) on their own.
 
 ---
 
-### 🛠 My Tech Stack:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![ABAP](https://img.shields.io/badge/ABAP-SAP-blue?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-* **Cloud & DevOps:** SAP BTP, AWS, Cloud Foundry, Jenkins, GitHub Actions.
-* **Data & AI:** Transformers (HuggingFace), Pydantic, Scikit-learn, SQL, Kafka (Learning).
-* **Process:** Scrum, Jira, Product Management mindset.
+### 🎓 The Thesis: Tax Automation @ 85% Accuracy
+For my Master’s at **SAP S/4HANA Automation**, I tackled the "final boss" of enterprise data: **Tax Classification**.
+* **The Problem:** Manual tax product classification is slow and error-prone.
+* **The Build:** A Multi-Agent RAG framework using **RoBERTa** and **BETO**.
+* **The Result:** Outperformed classical ML benchmarks with a **>85% SOTA accuracy** rate. 
+* **Infrastructure:** Scaled and benchmarked on **AWS (EC2/EBS)**.
 
 ---
 
-### 📫 Let's Connect!
-* **Internal:** Look me up on the SAP People directory!
-* **LinkedIn:** https://www.linkedin.com/in/chirag-jindal-b650a919b/
-* **Fun Fact:** I once mentored 80 Big Data students and achieved a 99% pass rate. I'm a firm believer that if you can't explain it simply, you don't understand it well enough.
+### 🛠 My Core Stack (The stuff I actually use)
+
+| Category | Tools of Choice |
+| :--- | :--- |
+| **Languages** | Python (Expert), Java/Spring, ABAP OO (Deloitte-trained) |
+| **AI/ML** | Transformers (HuggingFace), Pydantic, RAG Frameworks |
+| **Cloud** | SAP BTP, Cloud Foundry, AWS (EC2/EBS), Docker |
+| **Data** | SQL, Scikit-learn, Kafka (currently mastering) |
 
 ---
-*"Turning business data into intelligence, one agent at a time."*
+
+### 📊 Beyond the Code
+* **The 99% Stat:** As a Big Data Teaching Assistant, I mentored 80 students through distributed ML concepts. 79 of them passed (99% success rate). I value clear communication and technical mentorship.
+* **The 1.9:** I’m a high-performer who values analytical rigor. I believe "Good enough" is the enemy of "SOTA."
+
+---
+
+### 💬 Let's talk about:
+* How to make LLMs actually useful in S/4HANA.
+* The future of SAP BTP and sustainability data.
+* Why "Agentic AI" is more than just a 2026 buzzword.
+
+[LinkedIn Profile](YourURL) | [SAP People](YourURL)
