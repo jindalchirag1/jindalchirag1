@@ -1,39 +1,47 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Chirag Jindal 👋 
 
-### ⚡ Professional Summary
-I am a **[Your Role, e.g., Junior Web Developer / Data Science Enthusiast]** passionate about building [what you build, e.g., accessible web applications / automated data pipelines]. I love turning complex problems into simple, elegant code.
+### 🤖 Developer Associate @ SAP | Data Analytics Master (1.9) | AI Orchestrator
+
+I bridge the gap between complex data science and production-grade enterprise software. Currently, I’m focused on building the "Intelligent Enterprise" through autonomous agents and predictive sustainability dashboards.
 
 ---
 
-### 🛠️ My Tech Stack
+### 🚀 What I’m working on right now:
+* **🌍 Walldorf Energy Park:** Building a BTP-native dashboard that predicts energy consumption/generation and CO2 production using weather data and IoT streams.
+* **🧠 Agentic AI:** Designing the technical roadmap for autonomous agents (Joule) across SAP’s S.Mart and S.Factory ecosystems.
+* **⚡ Optimization:** Applying SOTA machine learning to automate mission-critical S/4HANA business processes.
 
-**Languages & Frameworks**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### 🎓 The "SOTA" Thesis
+I recently completed my Master's Thesis in **S/4HANA Automation**, where I:
+* Built a **Multi-Agent RAG framework** for tax product classification.
+* Fine-tuned LLMs (RoBERTa, BETO) to achieve **>85% accuracy**.
+* Benchmarked performance on **AWS (EC2/EBS)** to ensure "run-ready" scalability.
+
+---
+
+### 🛠 My Tech Stack:
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![ABAP](https://img.shields.io/badge/ABAP-SAP-blue?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+* **Cloud & DevOps:** SAP BTP, AWS, Cloud Foundry, Jenkins, GitHub Actions.
+* **Data & AI:** Transformers (HuggingFace), Pydantic, Scikit-learn, SQL, Kafka (Learning).
+* **Process:** Scrum, Jira, Product Management mindset.
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical)
+### 📊 Github Stats
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
+
+### 📫 Let's Connect!
+* **Internal:** Look me up on the SAP People directory!
+* **LinkedIn:** (https://www.linkedin.com/in/chirag-jindal-b650a919b/)
+* **Fun Fact:** I once mentored 80 Big Data students and achieved a 99% pass rate. I'm a firm believer that if you can't explain it simply, you don't understand it well enough.
 
 ---
-
-### 🌱 What I'm Up To
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[New Skill, e.g., TypeScript or AWS]**
-- 💬 Ask me about **[Topics you know well]**
-- 📫 How to reach me: **[Your Email or LinkedIn Link]**
-
----
-
-### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL])
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]([YOUR_TWITTER_URL])
+*"Turning business data into intelligence, one agent at a time."*
