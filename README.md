@@ -35,12 +35,9 @@ I recently completed my Master's Thesis in **S/4HANA Automation**, where I:
 
 ---
 
-### 📊 Github Stats
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical)
-
 ### 📫 Let's Connect!
 * **Internal:** Look me up on the SAP People directory!
-* **LinkedIn:** (https://www.linkedin.com/in/chirag-jindal-b650a919b/)
+* **LinkedIn:** https://www.linkedin.com/in/chirag-jindal-b650a919b/
 * **Fun Fact:** I once mentored 80 Big Data students and achieved a 99% pass rate. I'm a firm believer that if you can't explain it simply, you don't understand it well enough.
 
 ---
