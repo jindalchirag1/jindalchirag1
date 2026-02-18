@@ -1,4 +1,4 @@
-# I'm [Your Name] — I build the "Intelligence" in S/4HANA. 🧠
+# I'm Chirag Jindal — I build the Intelligence in S/4HANA and delpoy it on BTP. 🧠
 
 I’m a **Developer Associate at SAP** and a **Data Analytics Master’s graduate (1.9)**. I don't just write code; I architect systems that turn messy enterprise data into predictive actions. Currently, I'm bridging the gap between BTP cloud-native services and the next generation of Agentic AI.
 
@@ -44,4 +44,4 @@ For my Master’s at **SAP S/4HANA Automation**, I tackled the "final boss" of e
 * The future of SAP BTP and sustainability data.
 * Why "Agentic AI" is more than just a 2026 buzzword.
 
-[LinkedIn Profile](YourURL) | [SAP People](YourURL)
+[LinkedIn Profile](https://www.linkedin.com/in/chirag-jindal-b650a919b/)
